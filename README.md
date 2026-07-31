@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Teddy, a software developer currently learning how to work with Javascript  🔭
+I'm Teddy, a software developer working with Javascript  🔭
 
  📫 You can reach me via: email (teddybrian543@gmail.com)
 <!--
